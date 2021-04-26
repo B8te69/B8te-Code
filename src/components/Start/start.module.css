@@ -1,0 +1,48 @@
+body {
+    background-color: #DBDBDB;
+    font-family: Century Gothic, sans-serif;
+}
+
+.TextArea p {
+    font-size: 1.2rem;
+    color: #4C4C4C;
+    margin-top: 12px;
+}
+
+.TextArea {
+    text-align: center;
+}
+
+.Cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    color:#fff;
+}
+
+.cards1 {
+    height: 100px;
+    width: 50%;
+    background-color: #111;
+    float: left;
+}
+
+.cards2 {
+    height: 100px;
+    width: 50%;
+    background-color: #222;
+    float: right;
+
+}
+.cards1 p{
+    color:#fff;
+}
+.cards2 p{
+    color:#fff;
+}
+.BodyGround img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+}
+
